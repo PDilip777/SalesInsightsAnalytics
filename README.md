@@ -88,6 +88,7 @@ Data Analysis Using Power BI
 
 
 Dashboard or Report:
+                     •	This Reports has Potential to increase revenue by at least 7% in the upcoming quarter.
 
 ![Sales Insights Dashbords-page-001](https://github.com/PDilip777/SalesInsightsAnalytics/assets/157594735/f1e93847-eb40-4326-ba55-1963055966e9)
 
