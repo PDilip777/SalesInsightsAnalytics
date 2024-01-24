@@ -1,8 +1,6 @@
-# SalesInsightsAnalytics
+# Sales Insights 
 
-Dashboard Link: https://app.powerbi.com/links/ejUX7izV4f?ctid=6a70f02d-5afe-4fe6-a714-3765f4461164&pbi_source=linkShare
-
-Dashboard PDF Link: [Sales Insights Dashbords.pdf](https://github.com/PDilip777/SalesInsightsAnalytics/files/14039215/Sales.Insights.Dashbords.pdf)
+Dashboard Web Link: https://app.powerbi.com/links/ejUX7izV4f?ctid=6a70f02d-5afe-4fe6-a714-3765f4461164&pbi_source=linkShare
 
 Problem statement:
 
