@@ -1,6 +1,6 @@
 # Sales Insights 
 
-Dashboard Web Link: https://app.powerbi.com/links/ejUX7izV4f?ctid=6a70f02d-5afe-4fe6-a714-3765f4461164&pbi_source=linkShare
+Dashboard Web Link: https://www.novypro.com/project/sales-insights-dashboard-power-bi-3
 
 Problem statement:
 
