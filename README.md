@@ -1,6 +1,6 @@
 # Sales Insights 
 
-Dashboard Web Link: https://www.novypro.com/project/sales-insights-dashboard-power-bi-3
+Live Dashboard: https://www.novypro.com/project/sales-insights-dashboard-power-bi-3
 
 Problem statement:
 
@@ -89,7 +89,7 @@ Data Analysis Using Power BI
 
 Dashboard or Report:
                      
-		        •This Reports has Potential to increase revenue by at least 7% in the upcoming quarter.
+  •This Reports has Potential to increase revenue by at least 7% in the upcoming quarter.
 
 ![Sales Insights Dashbords-page-001](https://github.com/PDilip777/SalesInsightsAnalytics/assets/157594735/f1e93847-eb40-4326-ba55-1963055966e9)
 
@@ -100,7 +100,7 @@ Dashboard or Report:
 ![Sales Insights Dashbords-page-003](https://github.com/PDilip777/SalesInsightsAnalytics/assets/157594735/ce6420e7-6e2f-4f53-841d-7023b5f83792)
 
 
-Tools, Software and Libraries:
+Tools Used:
 
 1. MYSQL
 2. Microsoft Power BI
